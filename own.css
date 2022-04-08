@@ -7,7 +7,6 @@ background-attachment: fixed;
 color: black;
 font-family: Tahoma, Arial, sans-serif;
 }	
-
 #wrapper {
 background-color: slategray;
 margin-left: auto;
@@ -101,7 +100,6 @@ background-image: url(heroguitar.jpg);
 background-repeat: no-repeat;
 background-size: 100% 100%;
 }
-
 footer {
 background-color: plum;
 font-size: .60em;
