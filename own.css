@@ -21,6 +21,7 @@ header {
 background-color: plum;
 background-repeat: no-repeat;
 color: black;
+background-image: url(logo.jpg);
 padding-left: 240px;
 padding-top: 5px;
 padding-bottom: 5px;
