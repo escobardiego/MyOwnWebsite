@@ -54,7 +54,7 @@ width: 200px;
 }	
 nav a { text-decoration: none; }
 nav a:link { color: black; }
-nav a:visited { color: white;}
+nav a:visited { color: black;}
 nav a:hover { color: white; }
 nav ul {
 list-style-type: none;
