@@ -29,7 +29,7 @@ padding-bottom: 5px;
 }	
 header a { text-decoration: none; }
 header a:link { color: black; }
-header a:visited { color: white; }
+header a:visited { color: black; }
 header a:hover { color: white; }
 h1 { font-size: 3em; }
 h2 { color: royalblue; }
